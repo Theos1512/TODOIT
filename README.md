@@ -1,6 +1,6 @@
 # todoit
 
-A new Flutter project.
+This is a simple flutter To do App.
 
 ## Getting Started
 
